@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m5BpQ10A+P+nOGLU50oL1Qe47bThxR/AqIpsjzgJMwXTfdK60xU4Z8IKYGcFiDSg855S3fEfm68mRPmMi/NzuA==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos Desenvolvimento WEB\\CleanArchitecture\\WebApplication1\\CleanArchitecture.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55889\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\55889\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\55889\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

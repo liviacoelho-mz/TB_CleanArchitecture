@@ -1,0 +1,15 @@
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\bin\Debug\net6.0\CleanArchitecture.Persistence.deps.json
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\bin\Debug\net6.0\CleanArchitecture.Persistence.dll
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\bin\Debug\net6.0\CleanArchitecture.Persistence.pdb
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.AssemblyInfo.cs
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.csproj.CopyComplete
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.dll
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\refint\CleanArchitecture.Persistence.dll
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\CleanArchitecture.Persistence.pdb
+C:\Cursos Desenvolvimento WEB\CleanArchitecture\CleanArchitecture.Infrastecture\obj\Debug\net6.0\ref\CleanArchitecture.Persistence.dll
